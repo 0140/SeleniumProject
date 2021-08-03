@@ -1,4 +1,4 @@
-package com.cybertek;
+package com.testing;
 
 public class NewClass {
 
